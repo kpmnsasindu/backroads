@@ -285,7 +285,7 @@ Navbar
 Hero
 ===============
 */
-*/ .hero {
+.hero {
   min-height: 100vh;
   background: var(--clr-primary-5);
   display: flex;
